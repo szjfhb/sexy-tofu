@@ -20,6 +20,7 @@
 		"48": "./img/48x48.png",
 		"128": "./img/128x128.png"
 	},
+	"options_page": "options.html",
 	"content_scripts": [
 		{
 			"matches": [
